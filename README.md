@@ -8,6 +8,8 @@
 ## [- Residuos informáticos](https://github.com/ciscoAnass/Proteccion-mediambiental/blob/main/Residuos-informaticos)
 ## [informática ecológica](https://github.com/ciscoAnass/Proteccion-mediambiental/blob/main/infromatica-ecologica)
 
-## Obsolescencia programada 
+
+***
+## License
 
 ***
