@@ -2,9 +2,10 @@
 
 ***
 
+## [- La contaminación ambienta](https://github.com/ciscoAnass/Proteccion-mediambiental/blob/main/La-contaminaci%C3%B3n-ambienta)
+## [- Residuos informáticos](https://github.com/ciscoAnass/Proteccion-mediambiental/blob/main/Residuos-informaticos)
+## [informática ecológica](https://github.com/ciscoAnass/Proteccion-mediambiental/blob/main/infromatica-ecologica)
 
-## La contaminación ambienta
-## Residuos informáticos
-## Obsolescencia programada e informática ecológica
+## Obsolescencia programada 
 
 ***
