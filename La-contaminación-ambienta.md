@@ -79,5 +79,7 @@ Abordar la contaminación ambiental requiere una combinación de medidas a nivel
 
 Es importante destacar que abordar la contaminación ambiental requiere la colaboración de gobiernos, industrias, comunidades y ciudadanos. La adopción de un enfoque integrado y sostenible es esencial para preservar la salud del planeta.
 
-<img src="/13.jpeg" alt="foto" width="500px">
+
+
+<img src="/13.jpg" alt="foto" width="500px">
 
