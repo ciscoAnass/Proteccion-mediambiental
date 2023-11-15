@@ -76,7 +76,7 @@ La implementación conjunta de estas soluciones puede contribuir significativame
 
 
 
-![foto24](/24.jpg)
+![foto24](/24.jpeg)
 
 
 
