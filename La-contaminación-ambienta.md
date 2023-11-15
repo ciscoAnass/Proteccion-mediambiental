@@ -31,10 +31,15 @@ La contaminación ambiental es causada por una variedad de factores que contribu
 4- Residuos Sólidos
 
 5- Contaminación del Agua
+
 6- Contaminación del Aire
+
 7- Deforestación
+
 8- Uso de Energía
+
 9- Contaminación Acústica
+
 10-Cambio Climático
 
 
@@ -50,14 +55,23 @@ Es importante abordar estos factores de contaminación mediante políticas ambie
 Abordar la contaminación ambiental requiere una combinación de medidas a nivel individual, comunitario, empresarial y gubernamental. Aquí hay algunas soluciones que se pueden implementar para reducir y prevenir la contaminación ambiental:
 
 1- Energías Renovables
+
 2- Eficiencia Energética
+
 3- Tratamiento de Residuos
+
 4- Control de Emisiones Industriales
+
 5- Transporte Sostenible
+
 6- Conservación de Bosques
+
 7- Agricultura Sostenible
+
 8- Educación Ambiental
+
 9- Políticas y Regulaciones Ambientales
+
 10- Innovación Tecnológica
 
 
