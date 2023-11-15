@@ -1,4 +1,4 @@
-# Definicion e la COntaminacion ambienta
+# Definicion e la Contaminacion ambienta
 
 ![foto](/1.jpeg)
 
@@ -12,7 +12,7 @@ La contaminación ambiental tiene muchos efectos dañinos. Puede causar problema
 
 
 
-
+![foto11](!11.jpg)
 
 
 
