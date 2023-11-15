@@ -46,6 +46,8 @@ La contaminación ambiental es causada por una variedad de factores que contribu
 Es importante abordar estos factores de contaminación mediante políticas ambientales, tecnologías más limpias, prácticas sostenibles y la conciencia pública para mitigar los impactos negativos en el medio ambiente.
 
 ![foto12](/12.jpg)
+<img src="/12.jpg" alt="foto" width="500px">
+
 
 
 # Las solucones de la contaminación ambiental ( por un mundo mas bonito )
