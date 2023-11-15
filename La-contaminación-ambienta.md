@@ -38,3 +38,25 @@ Es importante abordar estos factores de contaminación mediante políticas ambie
 
 ![foto12](/12.jpg)
 
+
+# Las solucones de la contaminación ambiental ( por un mundo mas bonito )
+
+
+
+Abordar la contaminación ambiental requiere una combinación de medidas a nivel individual, comunitario, empresarial y gubernamental. Aquí hay algunas soluciones que se pueden implementar para reducir y prevenir la contaminación ambiental:
+
+1- Energías Renovables
+2- Eficiencia Energética
+3- Tratamiento de Residuos
+4- Control de Emisiones Industriales
+5- Transporte Sostenible
+6- Conservación de Bosques
+7- Agricultura Sostenible
+8- Educación Ambiental
+9- Políticas y Regulaciones Ambientales
+10- Innovación Tecnológica
+
+
+Es importante destacar que abordar la contaminación ambiental requiere la colaboración de gobiernos, industrias, comunidades y ciudadanos. La adopción de un enfoque integrado y sostenible es esencial para preservar la salud del planeta.
+
+![foto13](/13.jpg)
