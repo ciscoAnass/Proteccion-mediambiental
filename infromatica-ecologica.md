@@ -5,7 +5,7 @@ La informática ecológica, también conocida como informática verde, se refier
 
 
 
-<img src="/12.jpg" alt="foto" width="500px">
+<img src="/3.jpeg" alt="foto" width="500px">
 
 
 
