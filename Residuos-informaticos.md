@@ -22,4 +22,6 @@ Los residuos informáticos, también conocidos como residuos electrónicos o des
 6-Problemas de Seguridad de Datos
 7-Amenazas para la Biodiversidad
 
+![foto2](/21.png)
+
 
