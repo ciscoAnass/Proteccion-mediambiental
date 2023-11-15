@@ -8,9 +8,18 @@
 ![foto2](/2.jpeg)
 
 
+# Los efectos del Residuos informáticos
 
 
 
+Los residuos informáticos, también conocidos como residuos electrónicos o desechos de equipos eléctricos y electrónicos (RAEE), pueden tener varios efectos negativos en el medio ambiente y la salud humana si no se gestionan adecuadamente. Aquí hay algunos de los efectos más significativos:
 
+1-Contaminación del Suelo y Agua
+2-Contaminación del Aire
+3-Impacto en la Salud Humana
+4-Pérdida de Recursos Valiosos
+5-Generación de Residuos Tóxicos
+6-Problemas de Seguridad de Datos
+7-Amenazas para la Biodiversidad
 
 
