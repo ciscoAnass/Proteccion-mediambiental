@@ -16,8 +16,25 @@ La contaminación ambiental tiene muchos efectos dañinos. Puede causar problema
 
 
 
+# Los Factores de la contaminación ambiental
 
 
 
+La contaminación ambiental es causada por una variedad de factores que contribuyen a la liberación de sustancias tóxicas y perjudiciales en el medio ambiente. Estos factores pueden clasificarse en diversas categorías según la fuente de contaminación. Aquí hay algunos de los factores clave de la contaminación ambiental:
 
+1-Emisiones de Industrias
+2- Emisiones de Vehículos
+3- Agricultura
+4- Residuos Sólidos
+5- Contaminación del Agua
+6- Contaminación del Aire
+7- Deforestación
+8- Uso de Energía
+9- Contaminación Acústica
+10-Cambio Climático
+
+
+Es importante abordar estos factores de contaminación mediante políticas ambientales, tecnologías más limpias, prácticas sostenibles y la conciencia pública para mitigar los impactos negativos en el medio ambiente.
+
+![foto12](/12.jpg)
 
