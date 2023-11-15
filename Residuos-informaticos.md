@@ -3,9 +3,8 @@
 
 
 *Residuos informáticos:* Se refiere a cualquier equipo o dispositivo electrónico obsoleto, desechado o no funcional, como computadoras, teléfonos, impresoras o componentes electrónicos, que se descartan debido a su antigüedad, averías o falta de utilidad, y que requieren una gestión especializada para minimizar impactos ambientales.
-<center>
-<img src="/2.jpeg" alt="foto" width="700px">
-</center>
+
+<img src="/2.jpeg" alt="foto" width="600px">
 
 ***
 # Los efectos del Residuos informáticos
@@ -28,7 +27,7 @@ Los residuos informáticos, también conocidos como residuos electrónicos o des
 
 7-Amenazas para la Biodiversidad
 
-<img src="/21.png" alt="foto" width="500px">
+<img src="/21.png" alt="foto" width="600px">
 
 
 
@@ -77,7 +76,7 @@ La gestión adecuada de los residuos informáticos es esencial para mitigar los 
 La implementación conjunta de estas soluciones puede contribuir significativamente a la reducción de la generación de residuos informáticos y al fomento de prácticas más sostenibles en la industria tecnológica.
 
 
-<img src="/24.jpeg" alt="foto" width="500px">
+<img src="/24.jpeg" alt="foto" width="600px">
 
 
 
