@@ -83,3 +83,7 @@ Es importante destacar que abordar la contaminación ambiental requiere la colab
 
 <img src="/13.jpg" alt="foto" width="500px">
 
+
+# Referencias
+## [Referencia 1 : bbva.com](https://www.bbva.com/es/sostenibilidad/que-es-y-que-tipos-de-contaminacion-ambiental-existen/)
+## [Referencia 2 : fundacionaquae.org](https://www.fundacionaquae.org/wiki/causas-contaminacion-ambiental/)
