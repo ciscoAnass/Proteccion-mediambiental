@@ -82,4 +82,8 @@ La implementación conjunta de estas soluciones puede contribuir significativame
 
 
 
+# Referencias
+## [Referencia 1 : ewaste1.com](https://www.ewaste1.com/what-is-e-waste/)
+## [Referencia 2 : techtarget.com](https://www.techtarget.com/sustainability/definition/e-waste)
+
 
