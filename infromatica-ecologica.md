@@ -58,6 +58,6 @@ La informática ecológica es crucial para el futuro sostenible, integrando prá
 ***
 
 # Referencias
-## [Referencia 1 : ewaste1.com](https://www.ewaste1.com/what-is-e-waste/)
-## [Referencia 2 : techtarget.com](https://www.techtarget.com/sustainability/definition/e-waste)
+## [Referencia 1 : negociosostenible.camaravalencia.com](https://negociosostenible.camaravalencia.com/economica/tendencias/que-es-el-green-computing-o-green-it/)
+## [Referencia 2 : techtarget.com](https://www.techtarget.com/searchdatacenter/definition/green-computing)
 
