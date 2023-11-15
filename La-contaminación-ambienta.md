@@ -12,7 +12,7 @@ La contaminación ambiental tiene muchos efectos dañinos. Puede causar problema
 
 
 
-![foto11](!11.jpg)
+![foto11](/11.jpg)
 
 
 
