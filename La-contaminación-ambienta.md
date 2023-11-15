@@ -5,7 +5,7 @@
 
 La contaminación ambiental es cuando dañamos nuestro planeta con cosas malas. Esto puede suceder de muchas maneras, como cuando los coches y las fábricas liberan humo y gases dañinos al aire, o cuando la gente tira basura en lugares donde no debería. Esta contaminación puede hacer que el aire, el agua y la tierra sean inseguros para los animales, las plantas y nosotros mismos. Es importante que todos hagamos nuestra parte para reducir la contaminación y mantener nuestro planeta limpio y seguro.
 
-
+***
 # Los efecto de la Constaminacion ambienta
 
 La contaminación ambiental tiene muchos efectos dañinos. Puede causar problemas de salud en humanos, animales y plantas, contribuir al cambio climático, causar lluvia ácida, dañar la capa de ozono, degradar el suelo, y llevar a la pérdida de bosques y selvas tropicales. También puede alterar los ecosistemas, lo que puede tener efectos en cascada en las especies que viven en ellos. Es importante que todos hagamos nuestra parte para reducir la contaminación y proteger nuestro planeta.
@@ -15,7 +15,7 @@ La contaminación ambiental tiene muchos efectos dañinos. Puede causar problema
 ![foto11](/11.jpg)
 
 
-
+***
 # Los Factores de la contaminación ambiental
 
 
@@ -49,7 +49,7 @@ Es importante abordar estos factores de contaminación mediante políticas ambie
 <img src="/12.jpg" alt="foto" width="500px">
 
 
-
+***
 # Las solucones de la contaminación ambiental ( por un mundo mas bonito )
 
 
