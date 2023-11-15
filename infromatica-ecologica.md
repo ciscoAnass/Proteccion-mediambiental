@@ -48,5 +48,16 @@ Estas ventajas resaltan la importancia de integrar principios de informática ec
 
 
 
-
 La informática ecológica es crucial para el futuro sostenible, integrando prácticas amigables con el medio ambiente en el diseño, uso y eliminación de tecnologías. Esto implica la adopción de hardware y software eficientes en energía, la promoción de energías renovables para alimentar centros de datos, y la implementación de estrategias para reducir residuos electrónicos. Con un enfoque en la eficiencia, la conciencia ambiental y la responsabilidad social, la informática ecológica contribuye al ahorro de costos, mejora la imagen empresarial, fomenta la innovación tecnológica y ayuda a cumplir con los objetivos globales de sostenibilidad, abriendo así un camino hacia un futuro más limpio y equitativo.
+
+
+
+
+
+
+***
+
+# Referencias
+## [Referencia 1 : ewaste1.com](https://www.ewaste1.com/what-is-e-waste/)
+## [Referencia 2 : techtarget.com](https://www.techtarget.com/sustainability/definition/e-waste)
+
