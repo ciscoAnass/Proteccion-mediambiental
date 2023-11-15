@@ -45,7 +45,7 @@ La contaminación ambiental es causada por una variedad de factores que contribu
 
 Es importante abordar estos factores de contaminación mediante políticas ambientales, tecnologías más limpias, prácticas sostenibles y la conciencia pública para mitigar los impactos negativos en el medio ambiente.
 
-![foto12](/12.jpg)
+
 <img src="/12.jpg" alt="foto" width="500px">
 
 
@@ -79,4 +79,5 @@ Abordar la contaminación ambiental requiere una combinación de medidas a nivel
 
 Es importante destacar que abordar la contaminación ambiental requiere la colaboración de gobiernos, industrias, comunidades y ciudadanos. La adopción de un enfoque integrado y sostenible es esencial para preservar la salud del planeta.
 
-![foto13](/13.jpg)
+<img src="/13.jpeg" alt="foto" width="500px">
+
