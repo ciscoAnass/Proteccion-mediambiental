@@ -4,7 +4,7 @@
 
 *Residuos informáticos:* Se refiere a cualquier equipo o dispositivo electrónico obsoleto, desechado o no funcional, como computadoras, teléfonos, impresoras o componentes electrónicos, que se descartan debido a su antigüedad, averías o falta de utilidad, y que requieren una gestión especializada para minimizar impactos ambientales.
 
-<img src="/2.jpeg" alt="foto" width="600px">
+<img src="/img/2.jpeg" alt="foto" width="600px">
 
 ***
 # Los efectos del Residuos informáticos
@@ -27,7 +27,7 @@ Los residuos informáticos, también conocidos como residuos electrónicos o des
 
 7-Amenazas para la Biodiversidad
 
-<img src="/21.png" alt="foto" width="700px">
+<img src="/img/21.png" alt="foto" width="700px">
 
 
 
@@ -38,7 +38,7 @@ Los residuos informáticos, también conocidos como residuos electrónicos o des
 Los residuos informáticos están influenciados por diversos factores, entre los que se incluyen la rápida obsolescencia tecnológica, los cortos ciclos de vida de los dispositivos, el consumismo tecnológico, la falta de infraestructura de reciclaje, la presencia de componentes tóxicos en los dispositivos, la producción globalizada, la extracción de materiales, la distribución desigual de la tecnología, la falta de regulaciones efectivas y la falta de conciencia del consumidor. Estos factores contribuyen al aumento de la generación de residuos electrónicos y a los impactos ambientales y sociales asociados con su gestión y eliminación. La adopción de prácticas más sostenibles en la fabricación, el consumo y la gestión de residuos es crucial para abordar estos desafíos.
 
 
-<img src="/23.jpg" alt="foto" width="700px">
+<img src="/img/23.jpg" alt="foto" width="700px">
 
 
 
@@ -76,7 +76,7 @@ La gestión adecuada de los residuos informáticos es esencial para mitigar los 
 La implementación conjunta de estas soluciones puede contribuir significativamente a la reducción de la generación de residuos informáticos y al fomento de prácticas más sostenibles en la industria tecnológica.
 
 
-<img src="/24.jpeg" alt="foto" width="500px">
+<img src="/img/24.jpeg" alt="foto" width="500px">
 
 
 
