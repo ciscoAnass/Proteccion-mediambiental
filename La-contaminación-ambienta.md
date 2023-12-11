@@ -1,9 +1,9 @@
 # Definicion e la Contaminacion ambienta
 
-![foto](/img/1.jpeg)
-
-
 La contaminación ambiental es cuando dañamos nuestro planeta con cosas malas. Esto puede suceder de muchas maneras, como cuando los coches y las fábricas liberan humo y gases dañinos al aire, o cuando la gente tira basura en lugares donde no debería. Esta contaminación puede hacer que el aire, el agua y la tierra sean inseguros para los animales, las plantas y nosotros mismos. Es importante que todos hagamos nuestra parte para reducir la contaminación y mantener nuestro planeta limpio y seguro.
+
+
+
 
 ***
 # Tipos de contaminación ambiental
