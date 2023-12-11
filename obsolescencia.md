@@ -17,3 +17,6 @@ Existen varios tipos de obsolescencia programada, cada uno dirigido a acortar la
 **Obsolescencia por Incompatibilidad:** Se crea cuando un producto es deliberadamente diseñado para no ser compatible con futuras actualizaciones, forzando a los consumidores a adquirir versiones más recientes.
 
 **Obsolescencia por Componentes:** Se centra en la fabricación de componentes de baja durabilidad dentro de un producto, asegurando que falle eventualmente y requiera reparación o reemplazo.
+
+
+## [Referencia 1 : hablandoenvidrio.com](https://hablandoenvidrio.com/obsolescencia-programada/)
