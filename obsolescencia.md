@@ -18,5 +18,9 @@ Existen varios tipos de obsolescencia programada, cada uno dirigido a acortar la
 
 **Obsolescencia por Componentes:** Se centra en la fabricación de componentes de baja durabilidad dentro de un producto, asegurando que falle eventualmente y requiera reparación o reemplazo.
 
+***
+
+
+# REFERENCIAS
 
 ## [Referencia 1 : hablandoenvidrio.com](https://hablandoenvidrio.com/obsolescencia-programada/)
