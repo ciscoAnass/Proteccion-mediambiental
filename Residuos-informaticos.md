@@ -31,16 +31,6 @@ Los residuos informáticos, también conocidos como residuos electrónicos o des
 
 
 
-***
-# Los factores del Residuos informáticos
-
-
-Los residuos informáticos están influenciados por diversos factores, entre los que se incluyen la rápida obsolescencia tecnológica, los cortos ciclos de vida de los dispositivos, el consumismo tecnológico, la falta de infraestructura de reciclaje, la presencia de componentes tóxicos en los dispositivos, la producción globalizada, la extracción de materiales, la distribución desigual de la tecnología, la falta de regulaciones efectivas y la falta de conciencia del consumidor. Estos factores contribuyen al aumento de la generación de residuos electrónicos y a los impactos ambientales y sociales asociados con su gestión y eliminación. La adopción de prácticas más sostenibles en la fabricación, el consumo y la gestión de residuos es crucial para abordar estos desafíos.
-
-
-<img src="/img/23.jpg" alt="foto" width="700px">
-
-
 
 ***
 # Soluciones para Residuos informáticos
