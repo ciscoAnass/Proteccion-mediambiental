@@ -1,7 +1,7 @@
 # Proteccion mediambiental
 
 ***
-![logo](/establecer-conservacion-ecologica-proteccion-medio-ambiente_24877-53676.avif)
+![logo](/img/establecer-conservacion-ecologica-proteccion-medio-ambiente_24877-53676.avif)
 
 
 # Indice
