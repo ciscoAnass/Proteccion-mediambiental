@@ -7,9 +7,10 @@
 # Indice
 ***
 
-## [Que es La contaminación ambienta ?](https://github.com/ciscoAnass/Proteccion-mediambiental/blob/main/La-contaminaci%C3%B3n-ambienta.md)
+## [La contaminación ambienta ](https://github.com/ciscoAnass/Proteccion-mediambiental/blob/main/La-contaminaci%C3%B3n-ambienta.md)
 ## [Residuos informáticos](https://github.com/ciscoAnass/Proteccion-mediambiental/blob/main/Residuos-informaticos.md)
 ## [informática ecológica](https://github.com/ciscoAnass/Proteccion-mediambiental/blob/main/infromatica-ecologica.md)
+## [La obsolescencia programada](https://github.com/ciscoAnass/Proteccion-mediambiental/blob/main/obsolescencia.md)
 
 
 ***
