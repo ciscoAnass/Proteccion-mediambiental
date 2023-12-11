@@ -5,7 +5,7 @@ La informática ecológica, también conocida como informática verde, se refier
 
 
 
-<img src="/3.jpeg" alt="foto" width="500px">
+<img src="/img/3.jpeg" alt="foto" width="500px">
 
 
 ***
@@ -40,7 +40,7 @@ La informática ecológica, o informática verde, ofrece varias ventajas que con
 Estas ventajas resaltan la importancia de integrar principios de informática ecológica en el desarrollo y uso de la tecnología para abordar los desafíos ambientales actuales y futuros.
 
 
-<img src="/31.jpeg" alt="foto" width="500px">
+<img src="/img/31.jpeg" alt="foto" width="500px">
 
 
 ***
