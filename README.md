@@ -15,7 +15,7 @@
 ***
 ## License
 
-![License](/license.png)
+![License](/img/license.png)
 
 ***
 
