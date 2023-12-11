@@ -43,15 +43,6 @@ Estas ventajas resaltan la importancia de integrar principios de informática ec
 <img src="/img/31.jpeg" alt="foto" width="500px">
 
 
-***
-# Los efectos del Residuos informáticos
-
-
-
-La informática ecológica es crucial para el futuro sostenible, integrando prácticas amigables con el medio ambiente en el diseño, uso y eliminación de tecnologías. Esto implica la adopción de hardware y software eficientes en energía, la promoción de energías renovables para alimentar centros de datos, y la implementación de estrategias para reducir residuos electrónicos. Con un enfoque en la eficiencia, la conciencia ambiental y la responsabilidad social, la informática ecológica contribuye al ahorro de costos, mejora la imagen empresarial, fomenta la innovación tecnológica y ayuda a cumplir con los objetivos globales de sostenibilidad, abriendo así un camino hacia un futuro más limpio y equitativo.
-
-
-
 
 
 
