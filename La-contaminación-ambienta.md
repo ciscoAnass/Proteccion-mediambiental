@@ -7,10 +7,12 @@ La contaminación ambiental es cuando dañamos nuestro planeta con cosas malas. 
 
 ***
 # Los efecto de la Constaminacion ambienta
+Tipos de contaminación ambiental
 
-La contaminación ambiental tiene muchos efectos dañinos. Puede causar problemas de salud en humanos, animales y plantas, contribuir al cambio climático, causar lluvia ácida, dañar la capa de ozono, degradar el suelo, y llevar a la pérdida de bosques y selvas tropicales. También puede alterar los ecosistemas, lo que puede tener efectos en cascada en las especies que viven en ellos. Es importante que todos hagamos nuestra parte para reducir la contaminación y proteger nuestro planeta.
-
-
+    Contaminación atmosférica: Partículas en suspensión y gases producidos por el tráfico rodado, la industria y las calefacciones son los principales causantes de la contaminación atmosférica.
+    Contaminación hídrica: Afecta a ríos, fuentes de agua subterránea, lagos y mar cuando se liberan residuos contaminantes.
+    Contaminación del suelo: La contaminación de los suelos afecta a todos los continentes y hasta a las regiones más remotas de la Tierra.
+    Contaminación acústica: Se produce con cualquier ruido excesivo ya sea en proporción, frecuencia, tono, volumen o ritmo.
 
 ![foto11](/img/11.jpg)
 
